@@ -36,9 +36,9 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=masdukofc&theme=ambient-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=masdukofc7&theme=ambient-gradient)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masdukofc&theme=radical&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masdukofc7&theme=radical&show_icons=true&hide_border=true)
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masdukofc&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masdukofc7&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
